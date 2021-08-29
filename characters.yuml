@@ -1,0 +1,11 @@
+// {type:class}
+// {direction:topDown}
+// {generate:true}
+[Velerad|Castellan of Wyzim]
+[Geralt|Witcher]
+[Medell|Old King]
+[Foltest|King]
+[Adda]
+[Medell]-Father>[Foltest]
+[Medell]-Father>[Adda]
+[Foltest]Gross Insest-[Adda]
